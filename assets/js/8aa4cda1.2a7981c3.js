@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktakoblog=self.webpackChunktakoblog||[]).push([[1274],{4171:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/takoblog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

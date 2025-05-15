@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktakoblog=self.webpackChunktakoblog||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/takoblog/blog","blogTitle":"Blog","authorsListPath":"/takoblog/blog/authors"}')}}]);
